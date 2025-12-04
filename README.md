@@ -74,7 +74,7 @@ The goal is to transform raw, messy datasets into clean, structured data and the
 
 
 ## 🚀 How to Run
-1. Open `cleaned_sales.csv` in Excel.  
+1. Open `excel_PIVOT.csv` in Excel.  
 2. Insert a PivotTable → Drag fields into Rows, Columns, Values, Filters.  
 3. Add PivotCharts for visualization.  
 4. Explore insights interactively using slicers.  
