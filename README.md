@@ -1,5 +1,5 @@
 
-# 📊 Data Cleaning & Analysis with Excel PivotTables
+# 📊 Data Analysis with Excel PivotTables
 
 ## 📖 Overview
 This project demonstrates the full workflow of **data cleaning** and **data analysis** using **Excel PivotTables**. and ** VLOOKUP** 
@@ -41,7 +41,7 @@ The goal is to transform raw, messy datasets into clean, structured data and the
 
 ---
 
-## 🔍 Using VLOOKUP for Data Cleaning & Analysis
+## 🔍 Using VLOOKUP
 
 **VLOOKUP** is an Excel function that searches for a value in the first column of a range and returns a value in the same row from another column. It is especially useful for **data cleaning, validation, and combining datasets**.
 
@@ -76,8 +76,6 @@ The goal is to transform raw, messy datasets into clean, structured data and the
 ## 🚀 How to Run
 1. Open `excel_PIVOT.csv` in Excel.  
 2. Insert a PivotTable → Drag fields into Rows, Columns, Values, Filters.  
-3. Add PivotCharts for visualization.  
-4. Explore insights interactively using slicers.  
 
 ---
 
@@ -86,6 +84,3 @@ This project highlights the importance of **data cleaning** as the foundation of
  **Excel PivotTables**, analysts can deliver accurate insights and professional dashboards.
 
 ---
-
-
-## 📂 Project Structure
