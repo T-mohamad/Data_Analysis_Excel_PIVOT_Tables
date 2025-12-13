@@ -27,6 +27,10 @@ The goal is to transform raw, messy datasets into clean, structured data and the
 ---
 
 ## 📊 Data Analysis with Excel PivotTables
+
+<img width="384" height="234" alt="image" src="https://github.com/user-attachments/assets/b9975e15-962e-4d61-b3a1-b99d43e584b7" />
+
+
 1. **Import Cleaned Data** into Excel.
 2. **Create PivotTable** to summarize:
    - Sales by Region
